@@ -7,7 +7,7 @@ import datetime
 
 app = Flask(__name__)
 
-# File to store chat logs for artifact
+# File to store chat logs for artifact #
 CHAT_LOG_FILE = "./chat_logs.json"
 
 # Ensure chat log file exists
